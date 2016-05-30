@@ -1,0 +1,159 @@
+
+/* Class = "UIButton"; normalTitle = " 10"; ObjectID = "1xw-Hf-jab"; */
+"1xw-Hf-jab.normalTitle" = " 10";
+
+/* Class = "UILabel"; text = "0 Minutes"; ObjectID = "4jx-X9-NBW"; */
+"4jx-X9-NBW.text" = "0 Minutes";
+
+/* Class = "UILabel"; text = "14 AVAILABLE"; ObjectID = "5KL-Wk-RIw"; */
+"5KL-Wk-RIw.text" = "14 AVAILABLE";
+
+/* Class = "UILabel"; text = "Today, March 18"; ObjectID = "63a-hh-wNz"; */
+"63a-hh-wNz.text" = "Today, March 18";
+
+/* Class = "UIButton"; normalTitle = "OPTIONAL"; ObjectID = "78L-xP-Jyd"; */
+"78L-xP-Jyd.normalTitle" = "OPTIONAL";
+
+/* Class = "UILabel"; text = "Today, March 18"; ObjectID = "7vo-Ur-0y4"; */
+"7vo-Ur-0y4.text" = "Today, March 18";
+
+/* Class = "UIButton"; normalTitle = "Book Now"; ObjectID = "8LC-dJ-ihU"; */
+"8LC-dJ-ihU.normalTitle" = "Book Now";
+
+/* Class = "UILabel"; text = "2"; ObjectID = "Ame-ua-nz0"; */
+"Ame-ua-nz0.text" = "2";
+
+/* Class = "UILabel"; text = "Studio Center"; ObjectID = "BTU-YD-vMm"; */
+"BTU-YD-vMm.text" = "Studio Center";
+
+/* Class = "UILabel"; text = "9 AM"; ObjectID = "D4X-Du-PPv"; */
+"D4X-Du-PPv.text" = "9 AM";
+
+/* Class = "UILabel"; text = "Studio Center"; ObjectID = "DIK-hN-mm3"; */
+"DIK-hN-mm3.text" = "Studio Center";
+
+/* Class = "UILabel"; text = "COST"; ObjectID = "I97-oV-APM"; */
+"I97-oV-APM.text" = "COST";
+
+/* Class = "UIButton"; normalTitle = "CONFIRM RESERVATION"; ObjectID = "IA4-nG-QyG"; */
+"IA4-nG-QyG.normalTitle" = "CONFIRM RESERVATION";
+
+/* Class = "UINavigationItem"; title = "Book WorkSpace"; ObjectID = "JNa-EZ-ofm"; */
+"JNa-EZ-ofm.title" = "Book WorkSpace";
+
+/* Class = "UINavigationItem"; title = "Conference Room"; ObjectID = "JQd-U7-6jU"; */
+"JQd-U7-6jU.title" = "Conference Room";
+
+/* Class = "UINavigationItem"; title = "Book Room"; ObjectID = "Jaf-gw-YZG"; */
+"Jaf-gw-YZG.title" = "Book Room";
+
+/* Class = "UILabel"; text = "223 Torrance HI Delor St."; ObjectID = "KbT-7a-r6z"; */
+"KbT-7a-r6z.text" = "223 Torrance HI Delor St.";
+
+/* Class = "UILabel"; text = "v 1.0"; ObjectID = "Ma1-CG-oy7"; */
+"Ma1-CG-oy7.text" = "v 1.0";
+
+/* Class = "UILabel"; text = "Type notes..."; ObjectID = "OJ9-DV-XT9"; */
+"OJ9-DV-XT9.text" = "Type notes...";
+
+/* Class = "UILabel"; text = "Morton, Maill Hall"; ObjectID = "PWG-pp-idT"; */
+"PWG-pp-idT.text" = "Morton, Maill Hall";
+
+/* Class = "UILabel"; text = "1.5 credits"; ObjectID = "QhQ-Lr-DiF"; */
+"QhQ-Lr-DiF.text" = "1.5 credits";
+
+/* Class = "UILabel"; text = "Today, March 18"; ObjectID = "Rs1-hn-0ee"; */
+"Rs1-hn-0ee.text" = "Today, March 18";
+
+/* Class = "UILabel"; text = "BOOK ROOM"; ObjectID = "SOH-sN-8uf"; */
+"SOH-sN-8uf.text" = "BOOK ROOM";
+
+/* Class = "UILabel"; text = "87974-8739"; ObjectID = "U3w-qU-uOP"; */
+"U3w-qU-uOP.text" = "87974-8739";
+
+/* Class = "UILabel"; text = "MEETING NOTES"; ObjectID = "Wpi-8T-UbW"; */
+"Wpi-8T-UbW.text" = "MEETING NOTES";
+
+/* Class = "UILabel"; text = "You may cancel the reservation 11:59 PM the day before your scheduled start time."; ObjectID = "Wux-li-uIc"; */
+"Wux-li-uIc.text" = "You may cancel the reservation 11:59 PM the day before your scheduled start time.";
+
+/* Class = "UIButton"; normalTitle = "+"; ObjectID = "Xbh-Uu-kRG"; */
+"Xbh-Uu-kRG.normalTitle" = "+";
+
+/* Class = "UILabel"; text = "9:00 AM"; ObjectID = "XtN-QA-dJS"; */
+"XtN-QA-dJS.text" = "9:00 AM";
+
+/* Class = "UILabel"; text = "BOOK WORKSPACE"; ObjectID = "YmE-wT-RxI"; */
+"YmE-wT-RxI.text" = "BOOK WORKSPACE";
+
+/* Class = "UIButton"; normalTitle = " G/F"; ObjectID = "Zj8-6R-avu"; */
+"Zj8-6R-avu.normalTitle" = " G/F";
+
+/* Class = "UILabel"; text = "223 Torrance HI Delor St."; ObjectID = "aDb-AD-fZV"; */
+"aDb-AD-fZV.text" = "223 Torrance HI Delor St.";
+
+/* Class = "UILabel"; text = "AMENITIES"; ObjectID = "bQe-Jo-UZo"; */
+"bQe-Jo-UZo.text" = "AMENITIES";
+
+/* Class = "UILabel"; text = "UPCOMING GUESTS"; ObjectID = "ccZ-IW-egh"; */
+"ccZ-IW-egh.text" = "UPCOMING GUESTS";
+
+/* Class = "UILabel"; text = "18 MARCH 2016"; ObjectID = "dQg-4w-Iu2"; */
+"dQg-4w-Iu2.text" = "18 MARCH 2016";
+
+/* Class = "UIButton"; normalTitle = "CONFIRM RESERVATION"; ObjectID = "fna-PD-8WF"; */
+"fna-PD-8WF.normalTitle" = "CONFIRM RESERVATION";
+
+/* Class = "UILabel"; text = "Studio Center"; ObjectID = "hI1-2k-dgZ"; */
+"hI1-2k-dgZ.text" = "Studio Center";
+
+/* Class = "UILabel"; text = "Morton, Maill Hall"; ObjectID = "iOy-Z7-Rvo"; */
+"iOy-Z7-Rvo.text" = "Morton, Maill Hall";
+
+/* Class = "UILabel"; text = "87974-8739"; ObjectID = "kGh-RS-Zdz"; */
+"kGh-RS-Zdz.text" = "87974-8739";
+
+/* Class = "UILabel"; text = "Studio Center"; ObjectID = "kes-rP-NEz"; */
+"kes-rP-NEz.text" = "Studio Center";
+
+/* Class = "UILabel"; text = "You may cancel the reservation 1 hour before your scheduled start time."; ObjectID = "ki1-Gj-dxT"; */
+"ki1-Gj-dxT.text" = "You may cancel the reservation 1 hour before your scheduled start time.";
+
+/* Class = "UILabel"; text = "10 credits"; ObjectID = "kuo-9J-keL"; */
+"kuo-9J-keL.text" = "10 credits";
+
+/* Class = "UIButton"; normalTitle = " G/F"; ObjectID = "lrs-GL-7Au"; */
+"lrs-GL-7Au.normalTitle" = " G/F";
+
+/* Class = "UILabel"; text = "Morton, Maill Hall"; ObjectID = "p9b-tG-S10"; */
+"p9b-tG-S10.text" = "Morton, Maill Hall";
+
+/* Class = "UILabel"; text = "9:00 AM"; ObjectID = "pT8-vu-Ynx"; */
+"pT8-vu-Ynx.text" = "9:00 AM";
+
+/* Class = "UILabel"; text = "Studio Center"; ObjectID = "pbN-aT-NV5"; */
+"pbN-aT-NV5.text" = "Studio Center";
+
+/* Class = "UINavigationItem"; title = "Studio Center"; ObjectID = "qLh-G5-Rv5"; */
+"qLh-G5-Rv5.title" = "Studio Center";
+
+/* Class = "UINavigationItem"; title = "More"; ObjectID = "rbe-W3-Xcq"; */
+"rbe-W3-Xcq.title" = "More";
+
+/* Class = "UILabel"; text = "9 AM"; ObjectID = "soJ-ZH-Apo"; */
+"soJ-ZH-Apo.text" = "9 AM";
+
+/* Class = "UILabel"; text = "CREDITS AVAILABLE"; ObjectID = "ukc-5g-Gko"; */
+"ukc-5g-Gko.text" = "CREDITS AVAILABLE";
+
+/* Class = "UILabel"; text = "9:00 AM"; ObjectID = "we0-tV-ko4"; */
+"we0-tV-ko4.text" = "9:00 AM";
+
+/* Class = "UIButton"; normalTitle = "-"; ObjectID = "yer-MD-rfk"; */
+"yer-MD-rfk.normalTitle" = "-";
+
+/* Class = "UIButton"; normalTitle = " 10"; ObjectID = "z4H-dB-2ds"; */
+"z4H-dB-2ds.normalTitle" = " 10";
+
+/* Class = "UILabel"; text = "Maker Hall"; ObjectID = "zYG-dM-gQ9"; */
+"zYG-dM-gQ9.text" = "Maker Hall";

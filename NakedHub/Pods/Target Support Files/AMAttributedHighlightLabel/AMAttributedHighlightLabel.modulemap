@@ -1,0 +1,6 @@
+framework module AMAttributedHighlightLabel {
+  umbrella header "AMAttributedHighlightLabel-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,185 @@
+"add" = "Add";
+"ok" ="OK";
+"prompt"="Prompt";
+"cancel"="Cancel";
+"error"="Error";
+"wait"="Pleae wait...";
+"search" = "Search";
+"saySomething"="say somthing";
+
+
+"COMPANY" = "COMPANY";
+
+"friend.add" = "Add friend";
+"friend.inputNameToSearch"="input to find friends";
+"friend.notAddSelf"="can't add yourself as a friend";
+"friend.sendApply"="sending application...";
+"friend.sendApplyFail"="send application fails, please operate again";
+"friend.sendApplySuccess"="send successfully";
+"friend.black"="Black List";
+
+"setting.cameraUpload" = "Take photo";
+"setting.localUpload"= "Photos";
+"setting.editName"="Edit NickName";
+"setting.saving"="saving...";
+"setting.saveFailed"="save failed";
+"setting.uploading"="uploading...";
+"setting.uploadSuccess"="uploaded successfully";
+"setting.uploadFail"="uploaded failed";
+"setting.uploadFail"="uploaded failed";
+"message.simulatorNotSupportCamera"="simulator does not support taking picture";
+"setting.cameraNoAuthority"="No camera permissions";
+"setting.cameraAuthority"="Please open in \"Setting\"-\"Privacy\"-\"Camera\".";
+
+"rejectFail"="reject failure";
+
+"sendingApply"="sending apply...";
+"acceptFail"="accept failure";
+"sendingApply"="sending apply...";
+
+
+"call.silence"="Silence";
+"call.speaker"="Speaker";
+"call.reject"="Reject";
+"call.answer"="Answer";
+"call.hangup"="Hangup";
+"call.videoSize"="Width/Height: ";
+"call.videoTimedelay"="Timedelay: ";
+"call.videoFramerate"="Framerate: ";
+"call.videoLostcnt"="Lostcnt: ";
+"call.videoLocalBitrate"= "Local Bitrate: ";
+"call.videoRemoteBitrate"="Remote Bitrate: ";
+"call.connectFailed"="Connect failed";
+"call.failed"="Call failed";
+"call.suspended"="Call has been suspended";
+"call.over"="Call end";
+"call.cancel"="Cancel the call";
+"call.rejected"="Reject the call";
+"call.in"="In the call...";
+"call.speak.relay"="Can speak...Relay";
+"call.speak.direct"="Can speak...Direct";
+"call.speak"="Can speak...";
+"call.rejected"="Reject the call";
+"call.init"="Is init the call...";
+"call.dealloc"="Is hanging up the call...";
+"call.waiting"="Waiting to answer...";
+"call.connecting"="Connecting...";
+
+"group.removeAllMessages"="remove all messages";
+"group.destroy"="dissolution of the group";
+"group.leave"="quit the group";
+
+
+"title.apply"="Application and notification";
+"title.groupApply"="Group Notification";
+"title.groupSetting"="Group Setting";
+"title.groupSubjectChanging"="Change group name";
+"title.groupBlackList"="Group black list";
+"group.addingOccupant"="add a group member...";
+
+"delete"="deleting member...";
+"sureToDelete"="please make sure to delete";
+"group.id"="group ID";
+"group.occupantCount"="members count";
+"network.disconnection"="Network disconnection";
+"message.image1"="[image]";
+"message.voice1"="[voice]";
+"message.location1"="[location]";
+"message.video1"="[video]";
+
+"chatroom.id"="chatroom Id";
+"chatroom.description"="description";
+"chatroom.occupantCount"="members count";
+"loadData"="Load data...";
+"chatroom.fetchInfoFail"="failed to get the chatroom details, please try again later";
+"title.chatroomlist"="chatroom list";
+"search"="Search";
+"loadData"="Load data...";
+"chatroom.joining"="Joining the chatroom";
+"message.downloadingAudio"="downloading voice, click later";
+"message.downloadingAudio"="downloading voice, click later";
+"message.downloadingVideo"="downloading video...";
+"message.videoFail"="video for failure!";
+"message.downloadingImage"="downloading a image...";
+"message.imageFail"="image for failure!";
+"message.thumImageFail"="thumbnail for failure!";
+"receiveCmd"="receive cmd message";
+"message.forbiddenWords"="Your message contains forbidden words";
+
+"message.simulatorNotSupportCamera"="simulator does not support taking picture";
+"media.timeShort"="The recording time is too short";
+"message.noMessage"="no messages";
+"copy"="Copy";
+"delete"="Delete";
+"accept"="Accept";
+"title.chooseContact"="select the contact";
+"title.group"="Group";
+"title.debug"="Debug";
+"title.chatroomlist"="chatroom list";
+"title.robotlist"="robot list";
+"title.createGroup"="Create a group";
+
+"friend.notChatSelf"="can't talk to yourself";
+"friend.notDeleteSelf"="can't delete self";
+"friend.notChatSelf"="can't talk to yourself";
+"friend.block"="join the blacklist";
+
+"group.create.inputName"="please enter the group name";
+"group.create.inputDescribe"="please enter a group description";
+
+"group.create.ongoing"="create a group...";
+"group.create.success"="create group success";
+"group.create.fail"="Failed to create a group, please operate again";
+"group.create.public"="public group";
+"group.create.private"="private group";
+"group.create.occupantJoinPermissions"="members join permissions";
+"group.create.open"="random join";
+
+"group.create.needApply"="you need administrator agreed to join the group";
+
+"group.create.occupantPermissions"="members invite permissions";
+"group.create.allowedOccupantInvite"="allows group members to invite others";
+"group.create.unallowedOccupantInvite"="don't allow group members to invite others";
+"group.create.inputName"="please enter the group name";
+
+"setting.uploadLog"="upload run log";
+"setting.sdkVersion"="SDK version";
+"setting.editName"="Edit NickName";
+"setting.inputName"="Please input nickname";
+"setting.saveName"="Save Nickname";
+"setting.namenotempty"="Name cannot be empty";
+
+"setting.edittips"="After setting this nickname, chat with the iOS client demo project, iOS will display this nickname is not a EaseMob ID, if the other party to use the Android client this setting is not effective";
+
+"message.image"="Image";
+"message.location"="Location";
+"message.voice"="Voice";
+"message.video"="Video";
+"receiveMessage"="you have a new message";
+"open"="Open";
+"message.toolBar.inputPlaceHolder" = "Type your message...";
+"message.toolBar.record.upCancel" = "Release to send.Swipe up to cancel";
+"message.toolBar.record.loosenCancel" = "loosen the fingers, to cancel sending";
+"message.toolBar.record.touch" = "hold down to talk";
+"message.toolBar.record.send" = "release to send";
+
+"message.startRecordFail"="failure to start recording";
+
+//location
+"location.messageType" = "location message";
+"location.fail" = "locate failure";
+"location.ongoning" = "locating...";
+
+
+"reconnection.ongoing"="reconnecting...";
+"reconnection.fail"="reconnection failure, later will continue to reconnection";
+"reconnection.success"="reconnection successful！";
+
+"message.toolBar.inputPlaceHolder"="Type your message...";
+"Terms and Conditions" = "Terms and Conditions";
+
+"NSDateCategory.text8" = "E H:mm";
+
+
+
+

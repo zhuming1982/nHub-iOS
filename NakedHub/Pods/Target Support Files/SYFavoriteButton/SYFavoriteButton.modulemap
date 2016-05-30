@@ -1,0 +1,6 @@
+framework module SYFavoriteButton {
+  umbrella header "SYFavoriteButton-umbrella.h"
+
+  export *
+  module * { export * }
+}

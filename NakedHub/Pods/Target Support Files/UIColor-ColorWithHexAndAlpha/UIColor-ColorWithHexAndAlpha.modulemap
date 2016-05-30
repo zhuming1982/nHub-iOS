@@ -1,0 +1,6 @@
+framework module UIColor_ColorWithHexAndAlpha {
+  umbrella header "UIColor-ColorWithHexAndAlpha-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module STTweetLabel {
+  umbrella header "STTweetLabel-umbrella.h"
+
+  export *
+  module * { export * }
+}

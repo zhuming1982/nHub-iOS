@@ -1,0 +1,27 @@
+
+/* Class = "UILabel"; text = "Market Theory"; ObjectID = "D4J-oT-eEs"; */
+"D4J-oT-eEs.text" = "Market Theory";
+
+/* Class = "UILabel"; text = "12 members"; ObjectID = "EBY-lK-B3W"; */
+"EBY-lK-B3W.text" = "12 members";
+
+/* Class = "UILabel"; text = "Market Theory"; ObjectID = "OkN-qI-4lq"; */
+"OkN-qI-4lq.text" = "Market Theory";
+
+/* Class = "UILabel"; text = "500 members"; ObjectID = "bq8-at-3tS"; */
+"bq8-at-3tS.text" = "500 members";
+
+/* Class = "UINavigationItem"; title = "Company"; ObjectID = "cK9-kc-5U0"; */
+"cK9-kc-5U0.title" = "Company";
+
+/* Class = "UILabel"; text = "12 members"; ObjectID = "e3t-2w-vsU"; */
+"e3t-2w-vsU.text" = "12 members";
+
+/* Class = "UITableViewController"; title = "Company"; ObjectID = "hFk-GA-3Wg"; */
+"hFk-GA-3Wg.title" = "公司";
+
+/* Class = "UIButton"; normalTitle = "Follow"; ObjectID = "rGs-L2-oDb"; */
+"rGs-L2-oDb.normalTitle" = "Follow";
+
+/* Class = "UILabel"; text = "Networking"; ObjectID = "s3I-On-F5y"; */
+"s3I-On-F5y.text" = "Networking";

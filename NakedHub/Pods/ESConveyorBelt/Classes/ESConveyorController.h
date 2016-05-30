@@ -1,0 +1,20 @@
+//
+// Created by Eduardo Scoz on 6/8/13.
+// Copyright (c) 2013 ESCOZ. All rights reserved.
+//
+
+#import <Foundation/Foundation.h>
+
+@class ESConveyorAdapter;
+
+
+@interface ESConveyorController : UICollectionViewController
+@property(nonatomic, strong) ESConveyorAdapter *adapter;
+@property(nonatomic, assign) NSInteger numberOfPages;
+@property(nonatomic, strong) NSArray *elements;
+- (id)initWithPages:(NSInteger)numberOfPages elements:(NSArray *)elements;
+
+- (void)scrollToNextPage;
+
+- (void)scrollToPage:(NSInteger)page animated:(BOOL)animated;
+@end

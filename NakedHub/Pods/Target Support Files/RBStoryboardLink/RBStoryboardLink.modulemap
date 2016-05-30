@@ -1,0 +1,6 @@
+framework module RBStoryboardLink {
+  umbrella header "RBStoryboardLink-umbrella.h"
+
+  export *
+  module * { export * }
+}

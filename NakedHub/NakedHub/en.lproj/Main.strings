@@ -1,0 +1,30 @@
+
+/* Class = "UITabBarItem"; title = "MESSAGES"; ObjectID = "ObK-OK-5YO"; */
+"ObK-OK-5YO.title" = "MESSAGES";
+
+/* Class = "UITabBarItem"; title = "EXPLORE"; ObjectID = "Pvh-Pd-HhO"; */
+"Pvh-Pd-HhO.title" = "EXPLORE";
+
+/* Class = "UITabBarItem"; title = "More"; ObjectID = "Qsb-0m-f6F"; */
+"Qsb-0m-f6F.title" = "More";
+
+/* Class = "UITextField"; placeholder = "Type your comment..."; ObjectID = "Y9Z-cq-1Xa"; */
+"Y9Z-cq-1Xa.placeholder" = "Type your comment...";
+
+/* Class = "UITabBarItem"; title = "FEED"; ObjectID = "ZrI-94-KwI"; */
+"ZrI-94-KwI.title" = "FEED";
+
+/* Class = "UITabBarItem"; title = "Today"; ObjectID = "dkB-Cx-iyb"; */
+"dkB-Cx-iyb.title" = "Today";
+
+/* Class = "UIViewController"; title = "Company"; ObjectID = "eTO-xB-C5z"; */
+"eTO-xB-C5z.title" = "Company";
+
+/* Class = "UINavigationItem"; title = "zzz"; ObjectID = "k5D-0Y-SaS"; */
+"k5D-0Y-SaS.title" = "zzz";
+
+/* Class = "UIButton"; normalTitle = "POST"; ObjectID = "wwM-JB-UlU"; */
+"wwM-JB-UlU.normalTitle" = "POST";
+
+/* Class = "UINavigationItem"; title = "New Message"; ObjectID = "xPH-VH-nSh"; */
+"xPH-VH-nSh.title" = "New Message";

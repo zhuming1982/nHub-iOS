@@ -1,0 +1,69 @@
+
+/* Class = "UILabel"; text = "5"; ObjectID = "2lP-eR-9PT"; */
+"2lP-eR-9PT.text" = "5";
+
+/* Class = "UITextField"; placeholder = "Type your comment..."; ObjectID = "5Ot-ht-67o"; */
+"5Ot-ht-67o.placeholder" = "Type your comment...";
+
+/* Class = "UILabel"; text = "1m"; ObjectID = "5cf-OS-YTh"; */
+"5cf-OS-YTh.text" = "1m";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "6RA-gj-WIW"; */
+"6RA-gj-WIW.text" = "Label";
+
+/* Class = "UILabel"; text = "1m"; ObjectID = "6au-xW-4pI"; */
+"6au-xW-4pI.text" = "1m";
+
+/* Class = "UIButton"; normalTitle = "POST"; ObjectID = "8dP-N6-KhE"; */
+"8dP-N6-KhE.normalTitle" = "POST";
+
+/* Class = "UILabel"; text = "Market Theory"; ObjectID = "9BP-xC-ORJ"; */
+"9BP-xC-ORJ.text" = "Market Theory";
+
+/* Class = "UIButton"; normalTitle = "All Locations"; ObjectID = "BUx-Ct-jNC"; */
+"BUx-Ct-jNC.normalTitle" = "All Locations";
+
+/* Class = "UINavigationItem"; title = "post"; ObjectID = "CXb-dk-Nfa"; */
+"CXb-dk-Nfa.title" = "post";
+
+/* Class = "UILabel"; text = "Justin Morgan"; ObjectID = "EIl-SN-kKs"; */
+"EIl-SN-kKs.text" = "Justin Morgan";
+
+/* Class = "UIButton"; normalTitle = "POST"; ObjectID = "PSp-12-W2t"; */
+"PSp-12-W2t.normalTitle" = "POST";
+
+/* Class = "UILabel"; text = "Justin Morgan"; ObjectID = "Pgs-UZ-RvM"; */
+"Pgs-UZ-RvM.text" = "Justin Morgan";
+
+/* Class = "UILabel"; text = "1m"; ObjectID = "QWB-ko-XgQ"; */
+"QWB-ko-XgQ.text" = "1m";
+
+/* Class = "UILabel"; text = "Type your message..."; ObjectID = "Ryo-MD-HBA"; */
+"Ryo-MD-HBA.text" = "Type your message...";
+
+/* Class = "UILabel"; text = "5"; ObjectID = "Z5l-rb-Bje"; */
+"Z5l-rb-Bje.text" = "5";
+
+/* Class = "UITextField"; placeholder = "Type your comment..."; ObjectID = "bjI-5z-Gsb"; */
+"bjI-5z-Gsb.placeholder" = "Type your comment...";
+
+/* Class = "UIButton"; normalTitle = "LIKE"; ObjectID = "cdL-6G-auZ"; */
+"cdL-6G-auZ.normalTitle" = "LIKE";
+
+/* Class = "UILabel"; text = "5"; ObjectID = "h5l-XU-X3g"; */
+"h5l-XU-X3g.text" = "5";
+
+/* Class = "UILabel"; text = "Market Theory"; ObjectID = "jRb-E9-b7E"; */
+"jRb-E9-b7E.text" = "Market Theory";
+
+/* Class = "UILabel"; text = "5"; ObjectID = "n11-0Z-mFW"; */
+"n11-0Z-mFW.text" = "5";
+
+/* Class = "UILabel"; text = "Market Theory"; ObjectID = "st3-fe-gY2"; */
+"st3-fe-gY2.text" = "Market Theory";
+
+/* Class = "UINavigationItem"; title = "NewPost"; ObjectID = "vWe-te-HX3"; */
+"vWe-te-HX3.title" = "NewPost";
+
+/* Class = "UILabel"; text = "Justin Morgan"; ObjectID = "zMI-es-Dzp"; */
+"zMI-es-Dzp.text" = "Justin Morgan";

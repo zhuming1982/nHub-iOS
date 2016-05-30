@@ -1,0 +1,4 @@
+CFBundleDisplayName = "naked Hub";
+NSLocationWhenInUseUsageDescription = "Allow “naked Hub” to access your location while you use the app? We will use this information to improve your user experience.";
+
+//Localization native development region = "en";

@@ -1,0 +1,719 @@
+"Cancel" = "取消";
+//"ok"="确定";
+"Take Photo" = "拍照";
+"Choose From Album"="从相册选择";
+"CANCEL" = "取消";
+
+"prompt" = "提示";
+"Log out"="登出";
+"Are you sure you want to log out?" = "确认退出？";
+"YES" = "是";
+"NO" = "否";
+"Reject"="拒绝";
+"Accept"="接受";
+"OK"="好";
+"Error"="错误";
+"Prompt"="提示";
+
+"Your password has been changed." = "您的密码已被修改。";
+
+//general
+"register" = "注册";
+"login" = "登录";
+"logout" = "登出";
+"password" = "密码";
+"username" = "个人账户";
+"confirmpassword"="确认密码";
+
+"ok" = "确定";
+"yes" = "是";
+"cancel" = "取消";
+"no" = "否";
+
+"search" = "搜索";
+"searching" = "正在搜索";
+"error" = "错误";
+"delete" = "删除";
+"copy" = "复制";
+"save" = "保存";
+"prompt" = "提示";
+"add" = "添加";
+"send" = "发送";
+"open" = "打开";
+"down" = "完成";
+"choose" = "选择";
+"accept" = "接受";
+"reject" = "拒绝";
+"wait" = "请等待...";
+"Add"="增加";
+
+"sendingApply" = "正在发送申请...";
+"acceptFail" = "接受失败";
+"rejectFail" = "拒绝失败";
+"refreshData" = "刷新数据...";
+"loadData" = "加载数据...";
+"loadDataFailed" = "加载数据失败";
+"saySomething" = "说点啥子吧";
+"searchResults" = "搜索结果";
+"doneWithCount" = "确定(%i)";
+"sureToDelete" = "请确定删除";
+"receiveCmd" = "有透传消息";
+"receiveMessage" = "您有一条新消息";
+"loginAtOtherDevice" = "你的账号已在其他地方登录";
+"loginUserRemoveFromServer" = "你的账号已被从服务器端移除";
+"deleteFailed" = "删除失败:%@";
+"notFound" = "没有找到";
+"noMore" = "没有更多数据了";
+"Read" = "已读";
+"Mark All As Read"="标记已读";
+
+//error des
+"error.connectServerFail" = "连接服务器失败!";
+"error.connectServerTimeout" = "连接服务器超时!";
+"error.connectNetworkFail" = "未能连接服务器!";
+"error.notFound" = "文件路径不存在";
+"error.initPlayerFail" = "初始化AVAudioPlayer失败!";
+"error.palyFail" = "播放失败!";
+"error.conversionFail" = "初始化AVAudioRecorder失败";
+"error.initRecorderFail" = "文件格式转换失败";
+"error.recordStoping" = "语音录制还没有结束";
+"error.recordNotBegin" = "还没有开始语音录制";
+"error.recordTooShort" = "录制时间过短";
+
+
+
+//login
+"login.beginAutoLogin" = "自动登录开始...";
+"login.endAutoLogin" = "自动登录结束...";
+"login.errorAutoLogin" = "自动登录失败.";
+"login.nameNotSupportZh" = "用户名不支持中文";
+"login.ongoing" = "正在登录...";
+"login.fail" = "登录失败";
+"login.inputNameAndPswd" = "请输入账号和密码";
+"login.inputApnsNickname" = "填写推送消息时使用的昵称";
+
+//register
+"register.ongoing" = "正在注册...";
+"register.fail" = "注册失败";
+"register.success" = "注册成功，请登录";
+"register.repeat" = "您注册的用户已存在!";
+"register.confirmPassword" = "两次输入密码不一致,请重新输入";
+
+//apns
+"apns.failToRegisterApns" = "注册推送失败";
+"apns.failToBindDeviceToken" = "消息推送与设备绑定失败";
+"apns.content" = "推送内容";
+
+//friend
+"friend.add" = "添加好友";
+"friend.somebodyAddWithName" = "%@ 添加你为好友";
+"friend.beRefusedToAdd" = "你被'%@'无耻的拒绝了";
+"friend.inputNameToSearch" = "输入要查找的好友";
+"friend.repeat" = "'%@'已经是你的好友了!";
+"friend.repeatApply" = "您已向'%@'发送好友请求了!";
+"friend.notAddSelf" = "不能添加自己为好友";
+"friend.repeatInvite" = "%@已经给你发来了申请";
+"friend.somebodyInvite" = "%@ 邀请你为好友";
+"friend.sendApply" = "正在发送申请...";
+"friend.sendApplyFail" = "发送申请失败，请重新操作";
+"friend.sendApplySuccess" = "发送申请成功";
+"friend.black" = "黑名单";
+"friend.notChatSelf" = "不能跟自己聊天";
+"friend.notDeleteSelf" = "不能删除自己";
+"friend.block" = "加入黑名单";
+
+//group
+"group.somebodyInvite" = "%@ 邀请你加入群组\'%@\'";
+"group.applyJoin" = "%@ 申请加入群组\'%@\'";
+"group.applyJoinWithName" = "%@ 申请加入群组\'%@\'：%@";
+"group.sendApplyFail" = "发送申请失败:%@\n原因：%@";
+"group.beRefusedToJoin" = "被拒绝加入群组\'%@\'";
+"group.beKicked" = "你被从群组\'%@\'中踢出";
+"group.agreedAndJoined" = "同意并已加入群组\'%@\'";
+"group.join" = "加入群组";
+"group.joined" = "已加入";
+"group.owner" = "群主";
+"group.describe" = "群组简介";
+"group.join.ongoing" = "加入群组...";
+"group.join.fail" = "加入群组失败，请重新操作";
+"group.sendingApply" = "发送加群申请...";
+"group.sendApplyRepeat" = "申请已发送";
+"group.maxUserCount" = "群成员个数超了最大值了";
+
+//Create Group
+"group.create.addOccupant" = "添加成员";
+"group.create.inputName" = "请输入群组名称";
+"group.create.inputDescribe" = "请输入群组简介";
+"group.create.groupPermission" = "群组权限";
+"group.create.private" = "私有群";
+"group.create.occupantPermissions" = "成员邀请权限";
+"group.create.allowedOccupantInvite" = "允许群成员邀请其他人";
+"group.create.unallowedOccupantInvite" = "不允许群成员邀请其他人";
+"group.create.ongoing" = "创建群组...";
+"group.create.success" = "创建群组成功";
+"group.create.fail" = "创建群组失败，请重新操作";
+"group.create.public" = "公有群";
+"group.create.occupantJoinPermissions" = "成员加入权限";
+"group.create.open" = "随便加入";
+"group.create.needApply" = "加入群组需要管理员同意";
+"group.create.group" = "新建群聊";
+"group.create.join" = "添加公开群";
+
+//Group Bans
+"group.ban.removing" = "正在将成员移出黑名单...";
+"group.ban.adding" = "正在将成员加入黑名单...";
+"group.ban.fetching" = "获取群组黑名单...";
+"group.ban.fetchFail" = "获取黑名单失败: %@";
+
+//Group Detail
+"group.removeAllMessages" = "清空聊天记录";
+"group.destroy" = "解散群组";
+"group.leave" = "退出群组";
+"group.id" = "群组ID";
+"group.occupantCount" = "群组人数";
+"group.addingOccupant" = "添加组成员...";
+"group.fetchInfoFail" = "获取群组详情失败，请稍后重试";
+"group.removingOccupant" = "正在删除成员...";
+"group.destroyFail" = "解散群组失败";
+"group.leaveFail" = "退出群组失败";
+"group.addOccupantFail" = "添加群成员失败, 请稍后再试";
+
+//Group Setting
+"group.setting.receiveAndPrompt" = "接收并提示群消息";
+"group.setting.receiveAndUnprompt" = "只接收不提示群消息";
+"group.setting.blockMessage" = "屏蔽群消息";
+"group.setting.save" = "设置属性";
+"group.setting.success" = "设置成功";
+"group.setting.fail" = "设置失败";
+"group.setting.subject" = "请输入群组名称";
+
+//Chatroom detail
+"chatroom.somebodyInvite" = "%@ 邀请你加入聊天室\'%@\'";
+"chatroom.id" = "聊天室Id";
+"chatroom.occupantCount" = "聊天室人数";
+"chatroom.description" = "描述";
+"chatroom.joining" = "正在加入...";
+"chatroom.fetchInfoFail" = "获取聊天室详情失败";
+"chatroom.joinFailed" = "加入聊天室\'%@\'失败";
+"chatroom.join" = "\'%@\'加入聊天室\'%@\'";
+"chatroom.leave" = "\'%@\'离开聊天室\'%@\'";
+"chatroom.remove" = "被踢出聊天室\'%@\'";
+
+//call
+"call.initFailed"="通话建立失败";
+"call.waiting"="等待接听...";
+"call.connecting"="正在建立连接...";
+"call.silence"="静音";
+"call.speaker"="免提";
+"call.reject"="拒接";
+"call.answer"="接听";
+"call.hangup"="挂断";
+"call.connectFailed"="建立连接失败";
+"call.failed"="通话失败";
+"call.suspended"="通话已挂断";
+"call.over"="通话结束";
+"call.cancel"="取消通话";
+"call.rejected"="拒接通话";
+"call.in"="正在通话中...";
+"call.speak"="可以说话了...";
+"call.speak.relay"="可以说话了...Relay";
+"call.speak.direct"="可以说话了...Direct";
+"call.init"="正在初始化通话...";
+"call.dealloc"="正在结束通话...";
+"call.videoSize"="宽/高: ";
+"call.videoTimedelay"="延迟: ";
+"call.videoFramerate"="帧率: ";
+"call.videoLostcnt"="丢包数: ";
+"call.videoLocalBitrate"="本地比特率: ";
+"call.videoRemoteBitrate"="对方比特率: ";
+
+//message
+"message.image" = "图片";
+"message.location" = "位置";
+"message.voice" = "音频";
+"message.video" = "视频";
+"message.image1" = "[图片]";
+"message.location1" = "[位置]";
+"message.voice1" = "[音频]";
+"message.video1" = "[视频]";
+"message.beginReceiveOffine" = "开始接收离线消息";
+"message.endReceiveOffine" = "离线消息接收成功";
+"message.toolBar.inputPlaceHolder" = "输入新消息";
+"message.toolBar.record.upCancel" = " 手指上滑，取消发送 ";
+"message.toolBar.record.loosenCancel" = " 松开手指，取消发送 ";
+"message.toolBar.record.touch" = "按住说话";
+"message.toolBar.record.send" = "松开发送";
+
+"message.downloadingAudio" = "正在下载语音，稍后点击";
+"message.downloadingVideo" = "正在获取视频...";
+"message.videoFail" = "视频获取失败!";
+"message.downloadingImage" = "正在获取大图...";
+"message.imageFail" = "大图获取失败!";
+"message.thumImageFail" = "缩略图获取失败!";
+"message.simulatorNotSupportCamera" = "模拟器不支持拍照";
+"message.simulatorNotSupportVideo" = "模拟器不支持录像";
+"message.startRecordFail" = "开始录音失败";
+"message.noMessage" = "消息已经清空";
+"message.forbiddenWords" = "你的消息包含不当言论";
+
+//media
+"media.timeShort" = "录音时间太短了";
+
+
+
+//network
+"network.disconnection" = "当前网络连接失败";
+
+//reconnection
+"reconnection.retry" = "你的账号登录失败，正在重试中... \n点击 '登出' 按钮跳转到登录页面 \n点击 '继续等待' 按钮等待重连成功";
+"reconnection.ongoing" = "正在重连中...";
+"reconnection.fail" = "重连失败，稍候将继续重连";
+"reconnection.success" = "重连成功！";
+"reconnection.wait" = "继续等待";
+
+//location
+"location.messageType" = "位置信息";
+"location.fail" = "定位失败";
+"location.ongoning" = "正在定位...";
+
+//title
+"title.conversation" = "会话";
+"title.addressbook" = "通讯录";
+"title.setting" = "设置";
+"title.group" = "群组";
+"title.chatroom" = "聊天室";
+"title.mychatroom" = "我的聊天室";
+"title.chooseContact" = "选择联系人";
+"title.debug" = "诊断";
+"title.groupBlackList" = "群组黑名单";
+"title.createGroup" = "创建群组";
+"title.publicGroup" = "公有群组";
+"title.groupSetting" = "群设置";
+"title.apnsSetting" = "消息推送设置";
+"title.buddyBlock" = "黑名单";
+"title.apply" = "申请与通知";
+"title.groupApply" = "群组通知";
+"title.groupSubjectChanging" = "修改群名称";
+"title.chatroomlist" = "聊天室列表";
+"title.robotlist" = "环信助手";
+"title.profile" = "详细资料";
+
+
+//setting
+"setting.autoLogin" = "自动登录";
+"setting.loginUser" = "退出登录(%@)";
+"setting.logoutOngoing" = "正在退出...";
+
+"setting.notDisturb" = "功能消息免打扰";
+"setting.showDetail" = "通知显示消息详情";
+"setting.open" = "开启";
+"setting.nightOpen" = "只在夜间开启 (22:00 - 7:00)";
+"setting.close" = "关闭";
+"setting.sureNotDisturb" = "此设置会导致全天都处于免打扰模式, 不会再收到推送消息. 是否继续?";
+
+"setting.uploadLog" = "上传运行日志";
+"setting.sdkVersion" = "SDK 版本";
+"setting.uploading" = "正在上传...";
+"setting.uploadSuccess" = "上传成功";
+"setting.uploadFail" = "上传失败";
+"setting.editName" = "更改昵称";
+"setting.inputName" = "请输入新昵称";
+"setting.saveName" = "保存更改昵称";
+"setting.namenotempty" = "昵称不能为空";
+"setting.personalInfo" = "个人信息";
+"setting.personalInfoUpload" = "头像";
+"setting.edittips" = "设置此昵称以后,在与iOS客户端demo聊天工程中,iOS一侧会显示此昵称而不是环信ID,如果对方使用安卓客户端则此设置不生效";
+"setting.iospushname" = "iOS离线推送昵称";
+"setting.useIp" = "使用IP";
+"setting.deleteConWhenLeave" = "退群时删除会话";
+"setting.showCallInfo" = "显示视频通话信息";
+"setting.microphoneNoAuthority" = "未获得授权使用麦克风";
+"setting.microphoneAuthority" = "请在iOS\"设置中\"-\"隐私\"-\"麦克风\"中打开";
+"setting.cameraNoAuthority" = "未获得授权使用相机";
+"setting.cameraAuthority" = "请在iOS\"设置中\"-\"隐私\"-\"相机\"中打开";
+"setting.cameraUpload" = "拍照上传";
+"setting.localUpload" = "相册上传";
+"setting.profileNickname" = "昵称";
+"setting.saving" = "修改中...";
+"setting.saveFailed" = "修改失败";
+
+//NSDateCategory
+"NSDateCategory.text1" = "1分钟内";
+"NSDateCategory.text2" = "%.f分钟前";
+"NSDateCategory.text3" = "%.f小时前";
+"NSDateCategory.text4" = "%.f天前";
+"NSDateCategory.text5" = "M月d日";
+"NSDateCategory.text6" = "%.f年前";
+"NSDateCategory.text7" = "昨天 %@";
+
+"NSDateCategory.text8" = "昨天HH:mm";
+"NSDateCategory.text9" = "凌晨hh:mm";
+"NSDateCategory.text10" = "上午hh:mm";
+"NSDateCategory.text11" = "下午hh:mm";
+//"hh:mm a" = "晚上hh:mm";
+ "NSDateCategory.text12" = "晚上hh:mm";
+"NSDateCategory.text13" = "昨天 HH:mm";
+"NSDateCategory.text14" = "今天 %@";
+
+"Yesterday"="昨天";
+
+"Delete" = "删除";
+
+/*
+ 
+ "NSDateCategory.text12" = "晚上hh:mm";
+ 
+ */
+
+"VerifyCodeSended" = "验证码已发送，请注意查收";
+
+"All Locations" = "所有位置";
+"Report" = "举报";
+"Got it! Thanks!" = "举报成功！感谢您！";
+"Code Message" = "验证码错误";
+"Resend code?" = "重新发送";
+"PHONE" = "电话";
+"EMAIL" = "邮箱";
+"TEAM CODE" = "团队代码";
+"UPCOMING RESERVATIONS" = "即将到来的预订";
+"GUIDE" = "指南";
+"BENEFITS" = "福利";
+"EVENTS" = "活动";
+"HONESTY MARKET" = "市场";
+"MY PROFILE" = "我的名片";
+"COMPANY PROFILE" = "公司名片";
+"COMPANY" = "公司";
+"ACCOUNT" = "账户";
+"SUPPORT" = "支持";
+"LANGUAGE" = "语言";
+"ABOUT" = "关于我们";
+"LOGOUT" = "退出登录";
+"MESSAGE"="消息";
+"Benefits"="福利";
+
+"Support" = "支持";
+
+
+"PLEASE SELECT LOCATION" = "请选择社区";
+"Select" = "选择";
+"Please select a date" = "请选择日期";
+"Your reservation is confirmed!" = "您的预订已确认。";
+"Shanghai" = "上海";
+"Type notes..." = "输入摘要";
+"Minutes" = "分钟";
+"FOLLOWING" = "已关注";
+"FOLLOW" = "关注";
+"SKILLS" = "技能";
+"INTERESTS" = "兴趣";
+"WORK" = "工作";
+"FEED & COMMUNITY" = "最新动态";
+"Take Photo" = "拍照";
+"CONTACT" = "联系方式";
+"TEAM" = "团队";
+"Follow"="关注";
+
+"COMPANY NAME" = "公司名";
+"WEBSITE" = "网址";
+"WHAT WE DO" = "做什么";
+"WECHAT" = "微信";
+"FACEBOOK" = "脸书";
+"TWITTER" = "推特";
+"COMPANY" = "公司";
+"VIEW ALL" = "查看全部";
+"Branding" = "品牌";
+"All Service" = "所有服务";
+"Notifications" = "通知";
+"Today" = "今天";
+"Reservation" = "预订";
+"UPCOMING RESERVATIONS" = "即将到来的预订";
+"BOOK NOW" = "立即预订";
+"SHOW ALL" = "显示全部";
+"+ 10 MORE UNREAD" = "更新更多";
+"You have no upcoming reservations." = "您没有即将到来的预订。";
+"Have a meeting? Book now!" = "要开会吗？现在预订！";
+"Reservations" = "预订";
+"PREVIOUS RESERVATIONS" = "以前的预订";
+"About" = "关于";
+"Country" = "城市";
+"Select Area" = "选择国家";
+"Please select the contact" = "请选择联系人";
+"Type a name" = "请输入姓名";
+"To:"="收件人:";
+"Company" = "公司";
+"You have no reservation currently" = "您当前没有预订";
+"Reservations Detail"="预订详情";
+"RESERVATIONS"="预订";
+"NO NEW NOTIFICATION"="没有新通知";
+"NOTIFICATIONS"="通知";
+"CANCEL ORDER"="取消订单";
+
+"Please Select Language"="请选择语言";
+"Chinese"="中文";
+"English"="英文";
+//"Chinese & English"="中文&英文";
+
+"FEED"="动态";
+"EXPLORE"="社区";
+"MESSAGES"="消息";
+"TODAY"="今天";
+"MORE"="更多";
+
+"Inbox"="收件箱";
+"Today"="今天";
+"More"="更多";
+"Explore"="社区";
+
+"Select Location"="选择位置";
+"Book Room"="预订会议室";
+"Meeting Room 6"="会议室";
+"CONFIRM RESERVATION"="确认预订";
+"Book Workspace"="预订工位";
+
+"MAKE MY PROFILE" = "创建个人档案";
+
+//Guiding 
+"Manifesto"="裸心宣言";
+"naked Hub is born out of a sea change in ethos: answer to your calling, not your boss; abandon “work life balance” and embrace “work life blur” "="裸心社来自于一场风气的变革:听从你的专业与梦想, 而非你的老板; 摒弃“工作生活平衡”, 拥抱“工作生活无界”。";
+
+"Hub Network"="裸心足迹";
+"With over 10 locations in Shanghai and a coming expansion across Asia, naked Hub provides you with first-class facilities and a network anywhere you need to work."="十余个办公地点和拓展至整个亚洲的计划，裸心社随时随地为你的工作提供一流的设施和人脉。";
+
+"THE COMMUNITY"="裸心社区";
+"The naked Hub online and offline community actually solves your business problems! Get help, answers and support from this diverse community."="线上线下服务打造一个让人灵感迸发的社区工作空间。鼓励企业家、创业者、独立职业人和梦想家创新与沟通。";
+
+"THE PERKS"="裸心合作";
+"Membership at naked Hub offers you the benefits of corporate work with 21st century freedom. Save money on valuable services and products."="裸心社的每一位会员都能进行21世纪最理想的自由协作。裸心社与企业合作，给创业公司提供来自大企业的益处。";
+
+"Why wait?"="还等什么？";
+"Get started with a membership today.  You’re only a few taps away from joining a vibrant community that knows what working naked is all about."="现在拥有开放式弹性座位，就是拥有一个了解一切裸心工作和充满活力的社区。";
+"Likes" = "谁点了赞";
+//FEED相关
+"Type your message..."="输入您的信息";
+"Type your comment..."="输入您的评论…";
+
+"What would you like to say to the community?"="分享新鲜事.... ";
+"New Post"="发布新内容";
+"POST"="发布";
+"Post"="帖子";
+"Back"="返回";
+"Send"="发送";
+
+//Explore相关
+"FOLLOWERS"="关注人数";
+"SERVICES"="服务";    
+"WHAT WE DO"="公司主营业务";
+"SAVE"="保存";
+"Add services offered..."="添加业务";
+"Browse Companies"="浏览公司";
+"Services Offered by Hubbers"="裸心社员的服务";
+"Confirm"="提示";
+"Submit"="提交";
+"Leave this page without saving?"="您未保存此页，确定离开吗？";
+"Save"="保存";
+"Leave"="离开";
+"Please enter your company name."="请输入您的公司名称";
+"Please enter your full name."="请输入您的姓名";
+"Companies"="公司";
+
+// 登录注册相关
+"JOIN NOW"="加入我们";
+"LOGIN"="登录";
+"Login"="登录";
+"Sign Up"="注册";
+"Join Now"="注册";
+"Enter your mobile number below."="请输入您的手机号码";
+"Mobile Number"="手机号码";
+"GET CODE VIA SMS"="获取短信验证码";
+"Email"="邮箱";
+"Password"="密码";
+"Please enter the activation code you received when you purchased your membership."="如果您购买了会员，请输入激活码";
+"8-Digit Code"="8位号码";
+"What’s this?"="这是什么？";
+"Now enter the 4-digit code you received via SMS."="请输入您收到的4位短信验证码";
+"NEXT"="下一步";
+"enter code"="输入验证码";
+"Resend code?"="重新发送";
+
+"Full Name"="姓名";
+"Mobile Number"="手机号码";
+"Password"="密码";
+
+"Choose Membership"="会员类型选择";
+"(Single User) Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."="(单一用户)Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.";
+
+"By continuing, you agree to the Terms and Conditions of the naked Hub membership agreement."="如果您同意裸心社会员协议的条款和声明，请继续下一步";
+
+"Terms and Conditions" = "条款和声明";
+
+"You have selected:"="您已选择:";
+
+"Pay via ALIPAY"="支付宝支付";
+"Pay via WeChat Pay" = "微信支付";
+"CONTINUE"="下一步";
+
+
+"CONTINUE · ¥0"="下一步 · ¥0";
+"%li days／month"="%li 天／月";
+//"¥%.f／month"="¥%.f／月";
+"%li months" = "%li个月";
+"month"="月";
+
+"Payment Successful!"="支付成功!";
+"Payment Failure!"="支付失败!";
+
+"Thank you for your payment. Welcome to the naked Hub community! You are now a Hubber!"="感谢您付款成功。欢迎加入裸心社区！你现在正式成为了一名裸心社员！";
+"LET’S GO!"="出发吧！";
+
+"Terms&Conditions"="协议条款";
+
+"FULL NAME"= "姓名";
+"TITLE"="职位";
+"ABOUT ME"="关于我";
+"LOCATION"="位置";
+"BIRTHDAY"="生日";
+"GENDER"="性别";
+"GET STARTED"="开始";
+"Account"="账户";
+"Change Password"="修改密码";
+"Current Password"="当前密码";
+"Re-type Password"="再次输入新密码";
+"New Password"="新密码";
+"BOOK WORKSPACE"="预订工位";
+"BOOK ROOM"="预订会议室";
+"CHANGE  PASSWORD"="修改密码";
+"Payment"="支付";
+"Unlimited  online community"="无限制的在线俱乐部";
+
+"You may cancel the reservation 1 hour before your scheduled start time."="您可以在开始前的1小时取消预订";
+"OPTIONAL"="可选";
+"MEETING NOTES"="会议摘要";
+"AMENITIES"="设施";
+"separate with commas"="点击编辑";
+
+"No reservation" = "没有预订";
+
+"New Message" = "新消息";
+"%li seconds"="%li 秒";
+" %li/F"=" %li/楼";
+" %zi/F"=" %zi/楼";
+"%li AVAILABLE" = "%li 可预约";
+"%ld members"="%ld 位成员";
+"+%ld UNREAD"="+%ld 条未读消息";
+"%lidays / month   Unlimited Community" = "%li日 / 月   不限会员";
+
+"Workspace"="活动工位";
+
+"Book Now"="立即预订";
+"skip" = "跳过";
+"Release to refresh" = "松开立即刷新";
+"Pull_Down to refresh" = "下拉可以刷新";
+"Data is refreshing" = "正在刷新数据中...";
+"Pull_Up more" = "点击或上拉加载更多";
+"Data Reloaded"="已经全部加载完毕";
+"Pull_Up to get more"="上拉可以加载更多";
+"Release to reload more"="松开立即加载更多";
+"Data is reloading..."="正在加载更多的数据...";
+"Latest update：%@" = "最后更新：%@";
+"Latest update: No Record" = "最后更新：无记录";
+
+"What’s this?"="说明";
+"Community Guidelines"="社区引导";
+"Events"="活动";
+"Guide"="指南";
+"Version"="版本";
+
+"passwords do not match" = "您两次输入的新密码不一致。请尝试重新输入新密码。";
+
+"Terms of Service"="服务条款";
+"Community Guidelines"="社区引导";
+"Edit Skills"="编辑技能";
+"Edit Interest"="编辑兴趣";
+"Edit Services"="编辑服务";
+"Edit Services"="编辑服务";
+
+"GoogleMaps"="谷歌地图";
+"Amap"="高德地图";
+"Baidu Map"="百度地图";
+"Tencent Map"="腾讯地图";
+"Apple Maps"="苹果原生地图";
+"Navigate to"="导航到";
+"My Location"="我的位置";
+"Please turn on Location Services from Setting -> Privacy"="需要开启定位服务,请到设置->隐私,打开定位服务";
+"Warning"="提示";
+
+"You have already used all of your workspace credits for this month. Please check with your Community Manager to arrange more."="对不起，您已用完本月所有额度。请联络您的社区运营经理获取更多可用额度。";
+
+"Photos"="照片";
+"Location"="位置";
+"Camera"="相机";
+
+"Done(%i)"="完成(%i)";
+"Quit"="退出";
+
+"You can't send meesage without any characters." = "不能发送空白消息";
+
+/* Events */
+"Event Detail" = "活动详情";
+"ATTEND EVENT" = "参加活动";
+"I AM GOING" = "退出活动";
+"I AM GOING?" = "是否退出活动?";
+"ATTEND EVENT?" = "是否参加活动?";
+"EVENT IS EXPIRED" = "该活动已过期";
+"%@ Attendees" = "%@ 位参与者";
+"Filter Events" = "活动筛选";
+"APPLY FILTERS" = "提交";
+"Registration Success!" = "报名成功";
+"Cancelation Success!" = "取消成功";
+
+"My Building" = "我的社区";
+"My City" = "我的城市";
+"Anywhere" = "任何地方";
+"Clear" = "清除";
+"I what to go to events happening in:" = "我想查看以下活动:";
+"What Interests You?" = "我感兴趣的领域";
+
+"Share Success!" = "分享成功!";
+"Share Failure!" = "分享失败!";
+
+/* 预定工位 预定确认提示 */
+"RESERVATION?" = "是否预订?";
+"CONFIRM" = "确定";
+
+/* FEED 图片保存到相册 */
+"Save Image"="保存图片";
+"Save To Album"="保存到相册";
+"Recognize QR code"="识别图中二维码";
+
+"Failed"="保存失败";
+"Done"="完成";
+
+/* Search */
+"%@ at %@" = "%@ 就职于 %@";
+"Search..." = "搜索...";
+"No results match" = "没有匹配的结果";
+
+"%@ member" = "%@ 位成员";
+"%@ members" = "%@ 位成员";
+"%@ member for '%@'" =  "%@ 位成员与 '%@' 相关";
+"%@ members for '%@'" = "%@ 位成员与 '%@' 相关";
+
+"%@ company" = "%@ 家公司";
+"%@ companies" = "%@ 家公司";
+"%@ company for '%@'" = "%@ 家公司与 '%@' 相关";
+"%@ companies for '%@'" = "%@ 家公司与 '%@' 相关";
+
+"%@ event" = "%@ 场活动";
+"%@ events" = "%@ 场活动";
+"%@ event with '%@'" = "%@ 场活动与 '%@' 相关";
+"%@ events with '%@'" = "%@ 场活动与 '%@' 相关";
+
+"%@ post" = "%@ 条动态";
+"%@ posts" = "%@ 条动态";
+"%@ post with '%@'" = "%@ 条动态与 '%@' 相关";
+"%@ posts with '%@'" = "%@ 条动态与 '%@' 相关";
+
+/* Today - events */
+"SHOW MORE" = "显示更多";
+"UPCOMING EVENTS" = "即将到来的活动";
+"No more upcoming events nearby." = "附近没有即将到来的活动。";
+"View upcoming events at all Hubs." = "查看所有社区即将到来的活动。";

@@ -1,0 +1,4 @@
+
+CFBundleDisplayName="Naked Hub";
+
+NSLocationWhenInUseUsageDescription = "We Would Use Your Current Location To Find The Nearest Monitoring Station";

@@ -1,0 +1,6 @@
+framework module NSString_Hashes {
+  umbrella header "NSString-Hashes-umbrella.h"
+
+  export *
+  module * { export * }
+}

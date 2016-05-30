@@ -1,0 +1,6 @@
+framework module ESConveyorBelt {
+  umbrella header "ESConveyorBelt-umbrella.h"
+
+  export *
+  module * { export * }
+}
